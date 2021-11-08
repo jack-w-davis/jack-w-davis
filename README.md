@@ -8,7 +8,7 @@ I’m interested in:
  - Micro Controllers
  - Computer Graphics (OpenGL)
  
-You can reach me here.
+Please Note that not all work will be available in a repo, as some are Uni projects.
 
 <!---
 jack-w-davis/jack-w-davis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
